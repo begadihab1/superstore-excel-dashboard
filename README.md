@@ -5,7 +5,7 @@ This project was created as part of my data analytics learning journey using Exc
 This project analyzes the Superstore dataset using Microsoft Excel to identify sales and profitability patterns across categories, segments, and time.
 ## Dashboard Preview
 
-![Dashboard Screenshot.png]
+![Dashboard Screenshot.png](dashboard-screenshot.png)
 
 ## Tools Used
 - Microsoft Excel
