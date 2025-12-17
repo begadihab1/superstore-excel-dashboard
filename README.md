@@ -24,7 +24,7 @@ This project analyzes the Superstore dataset using Microsoft Excel to identify s
 - Sales and profit show a moderate positive correlation.
 
 ## Files
-- `Superstore_Dashboard.xlsx` – Final Excel dashboard
+- `Superstore Dashboard.xlsx` – Final Excel dashboard
 - `screenshots/` – Dashboard visuals
 
 ## Author
