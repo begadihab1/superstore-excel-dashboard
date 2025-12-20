@@ -29,7 +29,7 @@ This project analyzes the Superstore dataset using Microsoft Excel to identify s
 
 ## Files
 - `Superstore Dashboard.xlsx` – Final Excel dashboard
-- `Dashboard Screenshots` – Dashboard visuals
+- `Superstore_Screenshots` – Dashboard visuals
 
 ## Author
 Begad Ihab
